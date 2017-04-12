@@ -11,8 +11,10 @@ Tested on Filr 2.x
 You have access to the filr database server.  
 You have quotas defined in the flr admin interface and intend to manage home folder quotas from within filr.  
 You are using directory quotas and not userquotas on the volume.
-You will have filrewalled tightly the access to the MySql server to restrict acces just to your NSS fileserver from where you will run this script.
+You will have firewalled tightly the access to the MySql server to restrict access just to your OES/NSS fileserver from where you will run this script.
 You are happy that poking around in filr's database is something you want to do and you've tested all this on a test filr system!
+
+This program worked for me - it may not work for you and that's not my problem.
 
 # Preparation
 
