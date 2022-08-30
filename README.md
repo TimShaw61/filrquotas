@@ -4,7 +4,7 @@ Fix for displaying filr quotas when external home folders are used.  The display
 This script takes user home folder quota settings from filr and applies it as a directory quota to a user's home folder on an NSS filesystem.  In addition it takes the used space on that folder and applies it to the user's used space setting within filr 
 The end result is that user's quota settings are reported within filr for users with external home folders.
 
-Tested on Filr 2.x but...
+Tested on Filr 2.x but DOES NOT WORK ON FILR 3.x and higher
 
 This program worked for me - it may not work for you and that's not my problem.
 
