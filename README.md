@@ -1,3 +1,5 @@
+THIS CODE IS NO LONGER USEFUL from filr version 4.x onwards.  It relied on a bug in filr which has now been corrected.  Filr no longer displays quotas if storage is remote.
+
 # filrquotas
 Fix for displaying filr quotas when external home folders are used.  The display of quotas and used space in the filr interface only works if personal storage (internal to filr) is used for home folders.
 
